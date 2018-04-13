@@ -8,7 +8,7 @@
 - Поддерживаемая версия Microsoft Visual Studio (меньше всего проблем вызывает установка на [Visual Studio 2015](https://my.visualstudio.com/Downloads?q=visual%20studio%202015&wt.mc_id=o~msft~vscom~older-downloads), предварительно необходимо зарегестрироваться) 
 - Версия [NVIDIA CUDA Toolkit](https://developer.nvidia.com/cuda-downloads) для вашей ОС + патчи
 
-![alt text](https://github.com/Aw350meR060/CUDAstart/blob/master/CUDA%20Compatibility.jpg)
+![alt text](https://i.imgur.com/1qISgU4.jpg)
 
 ## Подготовка к установке:
 Для начала нужно установить актуальные [драйвера для вашей видеокарты](https://www.nvidia.ru/Download/index.aspx?lang=ru) 
